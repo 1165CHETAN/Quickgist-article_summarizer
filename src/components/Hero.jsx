@@ -29,9 +29,6 @@ const Hero = () => {
 <h2 className='head_text'>
   <span className='orange_gradient'>Quickgist - Article Summarizer</span>
 </h2>
-<h3 className='subheading text-xl font-bold text-blue-600 mt-6'>
-API based web application using Rapid-API
-</h3>
 
 
 <h2 className='desc'>
