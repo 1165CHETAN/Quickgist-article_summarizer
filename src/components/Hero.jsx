@@ -21,20 +21,25 @@ const Hero = () => {
               onClick={() => window.open('https://example.com')}
               className="black_btn"
             >
-              Other Projects
+              Blog
             </button>
           </div>
 </nav>
 
+<h2 className='head_text'>
+  <span className='orange_gradient'>Quickgist - Article Summarizer</span>
+</h2>
+<h3 className='subheading text-xl font-bold text-blue-600 mt-6'>
+API based web application using Rapid-API
+</h3>
 
-      <h1 className='head_text'>
-        Summarize Articles with <br className='max-md:hidden' />
-        <span className='orange_gradient '>Quickgist Rapid-API</span>
-      </h1>
-      <h2 className='desc'>
-        Simplify your reading with Quickgist, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries...
-      </h2>
+
+<h2 className='desc'>
+  Simplify your reading with Quickgist, an open-source article summarizer
+  that transforms lengthy articles into clear and concise summaries...
+</h2>
+
+
       
     </header>
   )
