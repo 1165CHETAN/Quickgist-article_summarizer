@@ -9,7 +9,9 @@ View blog - [Quickgist-blog](https://chetan-crud-app.netlify.app/)
 
 
 
-https://github.com/1165CHETAN/THREADS-app/assets/111604779/d89ce5a1-db3d-4444-830f-67997b2ff3c2
+https://github.com/1165CHETAN/Quickgist-article_summarizer/assets/111604779/889e008e-03e2-471c-ad7b-127c2f1fd38e
+
+DS-app/assets/111604779/d89ce5a1-db3d-4444-830f-67997b2ff3c2
 
 
 ## Technology Stack
