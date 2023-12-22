@@ -1,17 +1,16 @@
 
-## Quickgist-article summarizer
+## Quickgist-article summarizer: [view](https://chetan-crud-app.netlify.app/)      |    [blog](https://chetan-crud-app.netlify.app/) |    [demo](https://chetan-crud-app.netlify.app/)
+
 
 "Simplify your reading with Quickgist, an open-source article summarizer that transforms lengthy articles into clear and concise summaries..."
 
-View project - [Quickgist-website](https://chetan-crud-app.netlify.app/)
 
-View blog - [Quickgist-blog](https://chetan-crud-app.netlify.app/)
+
 
 
 
 https://github.com/1165CHETAN/Quickgist-article_summarizer/assets/111604779/889e008e-03e2-471c-ad7b-127c2f1fd38e
 
-DS-app/assets/111604779/d89ce5a1-db3d-4444-830f-67997b2ff3c2
 
 
 ## Technology Stack
@@ -30,8 +29,5 @@ DS-app/assets/111604779/d89ce5a1-db3d-4444-830f-67997b2ff3c2
 
 
 
-## Connect with me
-- Portfolio - [chetan-chavan](https://chetan-crud-app.netlify.app/)
-- LinkedIn - [chetan-linkedin](https://chetan-crud-app.netlify.app/)
-- Youtube - [chetan-youtube](https://chetan-crud-app.netlify.app/)
-- Twitter - [chetan-twitter](https://chetan-crud-app.netlify.app/)
+## 🙎🏻‍♂️Connect with me
+[👨🏻‍💼Portfolio](https://chetan-crud-app.netlify.app/)      |    [👜LinkedIn](https://chetan-crud-app.netlify.app/) |    [✉️Email](chetanchavan1165@gmail.com)
