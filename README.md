@@ -1,5 +1,6 @@
 
-## Quickgist-article summarizer: [view](https://chetan-crud-app.netlify.app/)      |    [blog](https://chetan-crud-app.netlify.app/) |    [demo](https://chetan-crud-app.netlify.app/)
+## Quickgist-article summarizer
+### [view](https://chetan-crud-app.netlify.app/)      |    [blog](https://chetan-crud-app.netlify.app/) |    [demo](https://chetan-crud-app.netlify.app/)
 
 
 "Simplify your reading with Quickgist, an open-source article summarizer that transforms lengthy articles into clear and concise summaries..."
@@ -25,7 +26,6 @@ https://github.com/1165CHETAN/Quickgist-article_summarizer/assets/111604779/889e
 - Netlify : Hosted website on Netlify, ensuring internet accessibility. So that we can access website from anywhere!!
 
 ## Project Recipe
-![Creating Value for Employees](https://github.com/1165CHETAN/CRUD-app/assets/111604779/c8ad4a8f-0814-42ee-80c5-2b4458b665c0)
 
 ![Untitled design (20)](https://github.com/1165CHETAN/Quickgist-article_summarizer/assets/111604779/53dcb3f0-30ce-4a50-bbb2-563656ebdb88)
 
