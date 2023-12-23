@@ -1,6 +1,6 @@
 
 ## Quickgist-article summarizer
-### [view](https://chetan-crud-app.netlify.app/)      |    [blog](https://chetan-crud-app.netlify.app/) |    [demo](https://chetan-crud-app.netlify.app/)
+### [live_link](https://chetan-crud-app.netlify.app/)      |    [demo](https://chetan-crud-app.netlify.app/) |    [portfolio](https://chetan-crud-app.netlify.app/)
 
 
 "Simplify your reading with Quickgist, an open-source article summarizer that transforms lengthy articles into clear and concise summaries..."
