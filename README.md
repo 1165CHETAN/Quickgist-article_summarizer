@@ -1,15 +1,17 @@
 
 ## Quickgist-article summarizer
+### [live_link](https://quickgist-chetan.netlify.app/)      |    [demo_video](https://www.canva.com/design/DAFyja9BORo/8_t231wQvIIxjLBKIw-Cng/watch?utm_content=DAFyja9BORo&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+
 
 "Simplify your reading with Quickgist, an open-source article summarizer that transforms lengthy articles into clear and concise summaries..."
 
-View project - [Quickgist-website](https://chetan-crud-app.netlify.app/)
-
-View blog - [Quickgist-blog](https://chetan-crud-app.netlify.app/)
 
 
 
-https://github.com/1165CHETAN/THREADS-app/assets/111604779/d89ce5a1-db3d-4444-830f-67997b2ff3c2
+
+
+https://github.com/1165CHETAN/Quickgist-article_summarizer/assets/111604779/889e008e-03e2-471c-ad7b-127c2f1fd38e
+
 
 
 ## Technology Stack
@@ -24,12 +26,10 @@ https://github.com/1165CHETAN/THREADS-app/assets/111604779/d89ce5a1-db3d-4444-83
 - Netlify : Hosted website on Netlify, ensuring internet accessibility. So that we can access website from anywhere!!
 
 ## Project Recipe
-![Creating Value for Employees](https://github.com/1165CHETAN/CRUD-app/assets/111604779/c8ad4a8f-0814-42ee-80c5-2b4458b665c0)
+![user visits our WeaveHub](https://github.com/1165CHETAN/Quickgist-article_summarizer/assets/111604779/f1c05c7a-d6bb-41ba-8ae6-c4946d476bb1)
 
 
 
-## Connect with me
-- Portfolio - [chetan-chavan](https://chetan-crud-app.netlify.app/)
-- LinkedIn - [chetan-linkedin](https://chetan-crud-app.netlify.app/)
-- Youtube - [chetan-youtube](https://chetan-crud-app.netlify.app/)
-- Twitter - [chetan-twitter](https://chetan-crud-app.netlify.app/)
+
+## 🙎🏻‍♂️Connect with me
+ [👜LinkedIn](https://www.linkedin.com/in/1165chetan/) |    [✉️Email](chetanchavan1165@gmail.com)
