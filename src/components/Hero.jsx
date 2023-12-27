@@ -11,18 +11,12 @@ const Hero = () => {
           <div className='flex'>
             <button 
               type="button"
-              onClick={() => window.open('https://github.com')}
+              onClick={() => window.open('https://github.com/1165CHETAN')}
               className="black_btn"
             >
               GitHub
             </button>
-            <button 
-              type="button"
-              onClick={() => window.open('https://example.com')}
-              className="black_btn"
-            >
-              Blog
-            </button>
+           
           </div>
 </nav>
 
